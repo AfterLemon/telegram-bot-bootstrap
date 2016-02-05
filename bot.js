@@ -32,7 +32,7 @@
  * @returns {Promise} promise A promise returned from calling Telegram API method(s) for chaining.
  *
  * @example
- * var bot1 = new bot('yourtokenhere');
+ * var bot1 = new bot('177114885:AAGMT4iRz8Lfcv65q1BqVgMogDZFP-YUQ60');
  * ...express server setup
  * app.route('/')
  * // robot API as middleware
